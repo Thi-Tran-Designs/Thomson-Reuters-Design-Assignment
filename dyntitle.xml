@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<lectoradata>
+	<textblock name="Text Block">
+		<text>&lt;p lang=&quot;en&quot;  legLH=&quot;1.157&quot; style=&quot;margin-left:0px;text-indent:0px;line-height:1.157;margin-top:0px;margin-bottom:0px;text-align:center;&quot; &gt;
+&lt;span class=&quot;text106392Font1&quot;  &gt;You didn&apos;t do the right thing!&lt;/span &gt;&lt;span class=&quot;text106392Font2&quot; style=&quot;background-color:transparent&quot; &gt;
+&lt;/span &gt;&lt;/p &gt;
+&lt;p  legLH=&quot;1.157&quot; style=&quot;margin-left:0px;text-indent:0px;line-height:1.157;margin-top:0px;margin-bottom:0px;text-align:center;&quot; &gt;
+&lt;span class=&quot;text106392Font3&quot;  &gt;Because of your (action) a (real world consequence) happened.&lt;/span &gt;&lt;span class=&quot;text106392Font4&quot; style=&quot;background-color:transparent&quot; &gt;
+&lt;/span &gt;&lt;/p &gt;</text>
+	</textblock>
+	<textblock name="Text Block">
+		<text>&lt;p lang=&quot;en&quot;  legLH=&quot;1.157&quot; style=&quot;margin-left:0px;text-indent:0px;line-height:1.157;margin-top:0px;margin-bottom:0px;text-align:center;&quot; &gt;
+&lt;span class=&quot;text106111Font1&quot;  &gt;You Did The Right Thing!
+&lt;/span &gt;&lt;/p &gt;
+&lt;p  legLH=&quot;1.157&quot; style=&quot;margin-left:0px;text-indent:0px;line-height:1.157;margin-top:0px;margin-bottom:0px;text-align:center;&quot; &gt;
+&lt;span class=&quot;text106111Font2&quot;  &gt;Because of your (action) a (real world consequence) happened.&lt;/span &gt;&lt;span class=&quot;text106111Font3&quot; style=&quot;background-color:transparent&quot; &gt;
+&lt;/span &gt;&lt;/p &gt;</text>
+	</textblock>
+	<textblock name="Chapter 1: What are the Issues?">
+		<text>&lt;div lang=&quot;en&quot;  legLH=&quot;1.156&quot; style=&quot;margin-left:0px;text-indent:0px;line-height:1.156;margin-top:0px;margin-bottom:0px;text-align:left;&quot; &gt;&lt;h1&gt;
+&lt;span class=&quot;text80074Font1&quot;  &gt;Chapter One:&lt;/span &gt;&lt;span class=&quot;text80074Font2&quot; style=&quot;background-color:transparent&quot; &gt;
+&lt;/span &gt;&lt;/h1&gt;&lt;/div &gt;
+&lt;p  legLH=&quot;1.156&quot; style=&quot;margin-left:0px;text-indent:0px;line-height:1.156;margin-top:0px;margin-bottom:0px;text-align:left;&quot; &gt;
+&lt;span class=&quot;text80074Font2&quot;  &gt;What are the issues?
+&lt;/span &gt;&lt;/p &gt;</text>
+	</textblock>
+	<textblock name="Chapter 2: Investment Banking">
+		<text>&lt;div lang=&quot;en&quot;  legLH=&quot;1.156&quot; style=&quot;margin-left:0px;text-indent:0px;line-height:1.156;margin-top:0px;margin-bottom:0px;text-align:left;&quot; &gt;&lt;h1&gt;
+&lt;span class=&quot;text80405Font1&quot;  &gt;Chapter Two:&lt;/span &gt;&lt;span class=&quot;text80405Font2&quot; style=&quot;background-color:transparent&quot; &gt;
+&lt;/span &gt;&lt;/h1&gt;&lt;/div &gt;
+&lt;p  legLH=&quot;1.156&quot; style=&quot;margin-left:0px;text-indent:0px;line-height:1.156;margin-top:0px;margin-bottom:0px;text-align:left;&quot; &gt;
+&lt;span class=&quot;text80405Font2&quot;  &gt;Investment Banking
+&lt;/span &gt;&lt;/p &gt;</text>
+	</textblock>
+	<textblock name="Chapter 3: Accounting, Auditing and Consulting">
+		<text>&lt;div lang=&quot;en&quot;  legLH=&quot;1.156&quot; style=&quot;margin-left:0px;text-indent:0px;line-height:1.156;margin-top:0px;margin-bottom:0px;text-align:left;&quot; &gt;&lt;h1&gt;
+&lt;span class=&quot;text80511Font1&quot;  &gt;Chapter Three:&lt;/span &gt;&lt;span class=&quot;text80511Font2&quot;  &gt; Accounting &amp; Auditing &#160;&lt;/span &gt;&lt;span class=&quot;text80511Font3&quot; style=&quot;background-color:transparent&quot; &gt;
+&lt;/span &gt;&lt;/h1&gt;&lt;/div &gt;</text>
+	</textblock>
+	<textblock name="Chapter 4:  Credit Assessment">
+		<text>&lt;div lang=&quot;en&quot;  legLH=&quot;1.156&quot; style=&quot;margin-left:0px;text-indent:0px;line-height:1.156;margin-top:0px;margin-bottom:0px;text-align:left;&quot; &gt;&lt;h1&gt;
+&lt;span class=&quot;text80624Font1&quot;  &gt;Chapter Four:&lt;/span &gt;&lt;span class=&quot;text80624Font2&quot;  &gt; Credit Assessment&lt;/span &gt;&lt;span class=&quot;text80624Font3&quot; style=&quot;background-color:transparent&quot; &gt;
+&lt;/span &gt;&lt;/h1&gt;&lt;/div &gt;</text>
+	</textblock>
+	<textblock name="Chapter 5:  Universal Banking">
+		<text>&lt;div lang=&quot;en&quot;  legLH=&quot;1.156&quot; style=&quot;margin-left:0px;text-indent:0px;line-height:1.156;margin-top:0px;margin-bottom:0px;text-align:left;&quot; &gt;&lt;h1&gt;
+&lt;span class=&quot;text80653Font1&quot;  &gt;Chapter Five:&lt;/span &gt;&lt;span class=&quot;text80653Font2&quot; style=&quot;background-color:transparent&quot; &gt;
+&lt;/span &gt;&lt;/h1&gt;&lt;/div &gt;
+&lt;p  legLH=&quot;1.156&quot; style=&quot;margin-left:0px;text-indent:0px;line-height:1.156;margin-top:0px;margin-bottom:0px;text-align:left;&quot; &gt;
+&lt;span class=&quot;text80653Font2&quot;  &gt;Universal Banking&lt;/span &gt;&lt;span class=&quot;text80653Font3&quot; style=&quot;background-color:transparent&quot; &gt;
+&lt;/span &gt;&lt;/p &gt;</text>
+	</textblock>
+	<textblock name="Chapter 6:  Overview and Conclusions">
+		<text>&lt;div lang=&quot;en&quot;  legLH=&quot;1.156&quot; style=&quot;margin-left:0px;text-indent:0px;line-height:1.156;margin-top:0px;margin-bottom:0px;text-align:left;&quot; &gt;&lt;h1&gt;
+&lt;span class=&quot;text80674Font1&quot;  &gt;Chapter Six:&lt;/span &gt;&lt;span class=&quot;text80674Font2&quot; style=&quot;background-color:transparent&quot; &gt;
+&lt;/span &gt;&lt;/h1&gt;&lt;/div &gt;
+&lt;p  legLH=&quot;1.156&quot; style=&quot;margin-left:0px;text-indent:0px;line-height:1.156;margin-top:0px;margin-bottom:0px;text-align:left;&quot; &gt;
+&lt;span class=&quot;text80674Font2&quot;  &gt;Overview &amp; Conclusion&lt;/span &gt;&lt;span class=&quot;text80674Font3&quot; style=&quot;background-color:transparent&quot; &gt;
+&lt;/span &gt;&lt;/p &gt;</text>
+	</textblock>
+	<textblock name="Chapter 7:  The Final Chapter & Assessment">
+		<text>&lt;div lang=&quot;en&quot;  legLH=&quot;1.156&quot; style=&quot;margin-left:0px;text-indent:0px;line-height:1.156;margin-top:0px;margin-bottom:0px;text-align:left;&quot; &gt;&lt;h1&gt;
+&lt;span class=&quot;text80706Font1&quot;  &gt;Chapter Seven:&lt;/span &gt;&lt;span class=&quot;text80706Font2&quot; style=&quot;background-color:transparent&quot; &gt;
+&lt;/span &gt;&lt;/h1&gt;&lt;/div &gt;
+&lt;p  style=&quot;margin-left:0px;text-indent:0px;margin-top:0px;margin-bottom:0px;text-align:left;&quot; &gt;
+&lt;span class=&quot;text80706Font2&quot;  &gt;The Final Test 
+&lt;/span &gt;&lt;/p &gt;</text>
+	</textblock>
+</lectoradata>
